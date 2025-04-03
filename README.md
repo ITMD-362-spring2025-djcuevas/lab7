@@ -14,7 +14,7 @@ own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
+1. https://www.glidedesign.com/blog/website-usability-checklist/
 2.
 
 * Your own condensed, ten-item must-have usability checklist:
