@@ -19,7 +19,7 @@ own master usability checklist.
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
+1. Spacing and font size
 2.
 3.
 4.
