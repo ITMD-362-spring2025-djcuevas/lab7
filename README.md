@@ -15,17 +15,17 @@ own master usability checklist.
 * URLs for the usability checklists you've found:
 
 1. https://www.glidedesign.com/blog/website-usability-checklist/
-2.
+2. https://www.questionpro.com/blog/website-usability/
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1. Spacing and font size
-2.
-3.
-4.
-5.
-6.
-7.
+1. validate design choices by mainting consistency in design and branding across all pages
+2. Enhance Accessibility
+3. Create test scenarios
+4. Make a clear navigations 
+5. Mobile responsiveness 
+6. Give users concise error notifications along with helpful guidance.
+7. Regularly testing  
 8.
 9.
 10.
